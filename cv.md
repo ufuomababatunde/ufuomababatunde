@@ -3,64 +3,67 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+MSc Student in the Bioinformatics and Systems Biology Program of KMUTT, Thailand
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - 2017`
+__Visayas State University, Philippines__
+Master of Science in Soil Science minor in Forestry
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2009 - 2013`
+__Visayas State University, Philippines__
+Bachelor of Science in Agriculture major in Soil Science 
 
-## Awards
+## Publication
 
-`2012`
-Name of Award, Organization 
+`2021`
+Pineda-Cortel, M., Bunag, J., Mamerto, T. P., & **Abulencia, M.** (2021). Differential gene expression and network-based analyses of the placental transcriptome reveal distinct potential biomarkers for gestationaldiabetes mellitus. _Diabetes research and clinical practice, 180_, 109046. [https://doi.org/10.1016/j.diabres.2021.109046](https://doi.org/10.1016/j.diabres.2021.109046)
 
-## Publications
+## Skills
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Programming`
+- Shiny
+- R
+- Bash
+- Python
 
-### Journals
+`Bioinformatics`
+- Metagenomics
+- Differential Expression Analysis
+- Gene Co-expression Analysis
 
-`1994`
-Article Title, Journal Title
+## Work Experience
 
-`1994`
-Article Title, Journal Title
+`May, 2021 - August, 2021`
+__Research Assistant (Bioinformatics)__, <br />
+Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines <br />
+_Project Title:_ Blood and Placental Gene Expression in Gestational Diabetes mellitus: Potential Identification of Early Biomarkers  <br />
+Worked on: <br />
+- differential expression analysis using RNA sequences
+- gene co-expression network analysis for hub gene identification
 
-### Books
+`January 20, 2020 - February 28, 2020`
+__Intern (Bioinformatics)__, <br />
+Philippine Genome Center, University of the Philippines, Diliman, Quezon City, Philippines <br />
+Worked on: <br />
+- 16s metagenomics analysis of irradiated soil samples from Chernobyl, Ukraine
 
-`1994`
-Book Title, Journal Title
+`February, 2018 - June, 2020`
+__Research Assistant (Soil Science)__, <br />
+Philippine Root Crop Research and Training Center, Visayas State University, Baybay City, Leyte, Philippines <br />
+_Project Title:_ Field Evaluation of Microbial Inoculant for Micronutrient Mobilization on the Growth, Yield and Nutritional Quality of Sweet Potato and Purple Yam <br />
+Worked on: <br />
+- traditional agar plating of soil microorganisms
+- production of microbial inoculant
+- establishment and data collection of the field experiment
 
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
+`August, 2017 - December, 2017`
+__Instructor (Soil Science)__, <br />
+Deparment of Soil Science, Visayas State University, Baybay City, Leyte, Philippines <br />
+Taught undergraduate laboratory classes in: <br />
+- soil microbiology
+- soil fertility
 
 
 <!-- ### Footer
