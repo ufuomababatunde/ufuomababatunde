@@ -26,22 +26,22 @@ Pineda-Cortel, M., Bunag, J., Mamerto, T. P., & **Abulencia, M.** (2021). Differ
 
 ## Work Experience
 
-**May, 2021 - August, 2021**
-__Research Assistant (Bioinformatics)__, <br />
+**May, 2021 - August, 2021** <br />
+__Research Assistant (Bioinformatics)__ <br />
 Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines <br />
 _Project Title:_ Blood and Placental Gene Expression in Gestational Diabetes mellitus: Potential Identification of Early Biomarkers  <br />
-Worked on: <br />
+Worked on:
 - differential expression analysis using RNA sequences
 - gene co-expression network analysis for hub gene identification
 
-**January 20, 2020 - February 28, 2020**
-__Intern (Bioinformatics)__, <br />
+**January 20, 2020 - February 28, 2020** <br />
+__Intern (Bioinformatics)__ <br />
 Philippine Genome Center, University of the Philippines, Diliman, Quezon City, Philippines <br />
 Worked on: <br />
 - 16s metagenomics analysis of irradiated soil samples from Chernobyl, Ukraine
 
-`February, 2018 - June, 2020`
-__Research Assistant (Soil Science)__, <br />
+**February, 2018 - June, 2020**
+__Research Assistant (Soil Science)__ <br />
 Philippine Root Crop Research and Training Center, Visayas State University, Baybay City, Leyte, Philippines <br />
 _Project Title:_ Field Evaluation of Microbial Inoculant for Micronutrient Mobilization on the Growth, Yield and Nutritional Quality of Sweet Potato and Purple Yam <br />
 Worked on: <br />
@@ -49,8 +49,8 @@ Worked on: <br />
 - production of microbial inoculant
 - establishment and data collection of the field experiment
 
-`August, 2017 - December, 2017`
-__Instructor (Soil Science)__, <br />
+**August, 2017 - December, 2017** <br />
+__Instructor (Soil Science)__ <br />
 Deparment of Soil Science, Visayas State University, Baybay City, Leyte, Philippines <br />
 Taught undergraduate laboratory classes in: <br />
 - soil microbiology
