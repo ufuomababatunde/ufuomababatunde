@@ -31,7 +31,7 @@ __Research Assistant (Bioinformatics)__ <br />
 Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines <br />
 _Project Title:_ Blood and Placental Gene Expression in Gestational Diabetes mellitus: Potential Identification of Early Biomarkers  <br />
 Worked on:
-- differential expression analysis using RNA sequences
+-- differential expression analysis using RNA sequences
 - gene co-expression network analysis for hub gene identification
 
 **January 20, 2020 - February 28, 2020** <br />
