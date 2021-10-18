@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Ted Laderas
-  avatar: bio-photo.jpg
+  avatar: photo.png
   bio: "This is a sample Jekyll academic website."
   email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
