@@ -1,15 +1,12 @@
 ---
 layout: resume
 ---
-## Currently
-
 MSc Student in the Bioinformatics and Systems Biology Program of KMUTT, Thailand
 
 ## Education
 
 `2013 - 2017`
-__Visayas State University, Philippines__
-Master of Science in Soil Science minor in Forestry
+**2013 – 2017** Master of Science in Soil Science minor in Forestry, _Visayas State University, Philippines
 
 `2009 - 2013`
 __Visayas State University, Philippines__
