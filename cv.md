@@ -9,32 +9,24 @@ MSc Student in the Bioinformatics and Systems Biology Program of KMUTT, Thailand
 Master of Science in Soil Science minor in Forestry <br />
 Visayas State University, Philippines
 
-`2009 - 2013`
 **2009 – 2013** <br />
 Bachelor of Science in Agriculture major in Soil Science <br />
 Visayas State University, Philippines
 
 ## Publication
 
-`2021`
 Pineda-Cortel, M., Bunag, J., Mamerto, T. P., & **Abulencia, M.** (2021). Differential gene expression and network-based analyses of the placental transcriptome reveal distinct potential biomarkers for gestationaldiabetes mellitus. _Diabetes research and clinical practice, 180_, 109046. [https://doi.org/10.1016/j.diabres.2021.109046](https://doi.org/10.1016/j.diabres.2021.109046)
 
 ## Skills
 
-`Programming`
-- Shiny
-- R
-- Bash
-- Python
+- Programming (Shiny, R, Bash, Python)
+- Bioinformatics (Metagenomics, Differential Expression Analysis, Gene Co-expression Analysis)
 
-`Bioinformatics`
-- Metagenomics
-- Differential Expression Analysis
-- Gene Co-expression Analysis
+
 
 ## Work Experience
 
-`May, 2021 - August, 2021`
+**May, 2021 - August, 2021**
 __Research Assistant (Bioinformatics)__, <br />
 Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines <br />
 _Project Title:_ Blood and Placental Gene Expression in Gestational Diabetes mellitus: Potential Identification of Early Biomarkers  <br />
@@ -42,7 +34,7 @@ Worked on: <br />
 - differential expression analysis using RNA sequences
 - gene co-expression network analysis for hub gene identification
 
-`January 20, 2020 - February 28, 2020`
+**January 20, 2020 - February 28, 2020**
 __Intern (Bioinformatics)__, <br />
 Philippine Genome Center, University of the Philippines, Diliman, Quezon City, Philippines <br />
 Worked on: <br />
