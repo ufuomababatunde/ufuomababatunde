@@ -31,7 +31,7 @@ __Research Assistant (Bioinformatics)__ <br />
 Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines <br />
 _Project Title:_ Blood and Placental Gene Expression in Gestational Diabetes mellitus: Potential Identification of Early Biomarkers  <br />
 Worked on: <br />
--- differential expression analysis using RNA sequences
+-- differential expression analysis using RNA sequences  <br />
 -- gene co-expression network analysis for hub gene identification
 
 **January 20, 2020 - February 28, 2020** <br />
@@ -45,15 +45,15 @@ __Research Assistant (Soil Science)__ <br />
 Philippine Root Crop Research and Training Center, Visayas State University, Baybay City, Leyte, Philippines <br />
 _Project Title:_ Field Evaluation of Microbial Inoculant for Micronutrient Mobilization on the Growth, Yield and Nutritional Quality of Sweet Potato and Purple Yam <br />
 Worked on: <br />
--- traditional agar plating of soil microorganisms
--- production of microbial inoculant
+-- traditional agar plating of soil microorganisms  <br />
+-- production of microbial inoculant <br />
 -- establishment and data collection of the field experiment
 
 **August, 2017 - December, 2017** <br />
 __Instructor (Soil Science)__ <br />
 Deparment of Soil Science, Visayas State University, Baybay City, Leyte, Philippines <br />
 Taught undergraduate laboratory classes in: <br />
--- soil microbiology
+-- soil microbiology <br />
 -- soil fertility
 
 
