@@ -40,7 +40,7 @@ Philippine Genome Center, University of the Philippines, Diliman, Quezon City, P
 Worked on: <br />
 -- 16s metagenomics analysis of irradiated soil samples from Chernobyl, Ukraine
 
-**February, 2018 - June, 2020**
+**February, 2018 - June, 2020** <br />
 __Research Assistant (Soil Science)__ <br />
 Philippine Root Crop Research and Training Center, Visayas State University, Baybay City, Leyte, Philippines <br />
 _Project Title:_ Field Evaluation of Microbial Inoculant for Micronutrient Mobilization on the Growth, Yield and Nutritional Quality of Sweet Potato and Purple Yam <br />
