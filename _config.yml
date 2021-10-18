@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Academic Website of Miguel
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Miguel Francisco B. Abulencia
   avatar: photo.png
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "An enthusiast in soil microbial ecology, plant transcriptome, systems biology, and network theory based in Guiuan, Philippines."
+  email: miguel.abulencia@mail.kmutt.ac.th
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  # twitter: laderast
+  # linkedin: #username
+  github: ufuomababatunde
+  # orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Miguel Francisco Abulencia
+  # mendeley: #username
   google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
+    #plus: #username
+    #analytics:
+    #verify:
+    scholar: weFTdy0AAAAJ
   facebook: #username
   instagram: #username
   bing-verify:
