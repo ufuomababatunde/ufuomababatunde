@@ -15,7 +15,7 @@ Visayas State University, Philippines
 
 ## Publication
 
-Pineda-Cortel, M., Bunag, J., Mamerto, T. P., & **Abulencia, M.** (2021). Differential gene expression and network-based analyses of the placental transcriptome reveal distinct potential biomarkers for gestationaldiabetes mellitus. _Diabetes research and clinical practice, 180_, 109046. [https://doi.org/10.1016/j.diabres.2021.109046](https://doi.org/10.1016/j.diabres.2021.109046)
+Pineda-Cortel, M., Bunag, J., Mamerto, T. P., & **Abulencia, M.** (2021). Differential gene expression and network-based analyses of the placental transcriptome reveal distinct potential biomarkers for gestational diabetes mellitus. _Diabetes research and clinical practice, 180_, 109046. [https://doi.org/10.1016/j.diabres.2021.109046](https://doi.org/10.1016/j.diabres.2021.109046)
 
 ## Skills
 
