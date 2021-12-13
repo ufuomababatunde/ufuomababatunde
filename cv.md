@@ -1,9 +1,11 @@
 ---
 layout: resume
 ---
-MSc Student in the Bioinformatics and Systems Biology Program of KMUTT, Thailand
-
 ## Education
+
+**2020 – present** <br />
+Master of Science in Bioinformatics and Systems Biology <br />
+King Mongkut's University of Technology Thonburi, Thailand
 
 **2013 – 2017** <br />
 Master of Science in Soil Science minor in Forestry <br />
